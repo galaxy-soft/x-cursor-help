@@ -2,7 +2,7 @@
 
 <div align="center">
 <p align="center">
-  <img src="./images/logo.png" alt="X-Cursor Help Logo" width="200" style="border-radius: 6px;"/>
+  <img src="./images/logo.jpg" alt="X-Cursor Help Logo" width="200" style="border-radius: 6px;"/>
 </p>
 
 <p align="center">
@@ -53,6 +53,9 @@
       </td>
       <td>
         <img src="./images/alipay.jpg" alt="支付宝" width="280"/><br>
+      </td>
+      <td>
+        <img src="./images/qq.jpg" alt="qq群" width="280"/><br>
       </td>
     </tr>
   </table>

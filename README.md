@@ -1,4 +1,4 @@
-# ➤ X-Cursor Help
+# ➤ X-Cursor Help（Free）
 
 <div align="center">
 <p align="center">

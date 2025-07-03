@@ -61,10 +61,3 @@
   </table>
 </div>
 
-## ⭐ 星星历史
-
-<div align="center">
-
-[![Star History Chart](https://api.star-history.com/svg?repos=galaxy-soft/x-cursor-help&type=Date)](https://star-history.com/#galaxy-soft/x-cursor-help&Date)
-
-</div>

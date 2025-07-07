@@ -1,4 +1,4 @@
-# ➤ X-Cursor Help（Free）
+# ➤ X-Cursor Help（无限续杯Free用户，一直白嫖一直爽）
 
 <div align="center">
 <p align="center">

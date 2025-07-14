@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-
+  
 [![Stars](https://img.shields.io/github/stars/galaxy-soft/x-cursor-help)](https://github.com/galaxy-soft/x-cursor-help/stargazers)
 
 获取最新版本请加入QQ群：1050933487
